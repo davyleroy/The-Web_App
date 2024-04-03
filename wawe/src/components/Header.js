@@ -6,7 +6,7 @@ const Header = () => {
       {/* Header section */}
       <header>{/* Your header content goes here */}</header>
 
-      {/* Post section */}
+      {/* The Post section */}
       <section>{/* Your post content goes here */}</section>
 
       {/* User Profiles section */}

@@ -1,6 +1,6 @@
 # ***About Wawe System in PHP MySQL Project***
 This project is a Wawe using PHP MySQL and CodeIgniter Framework. This system manages and storing the patients' personal records. The system stores the data in a database such as the Out-Patient Findings and Admission Details of a patient. By this, a certain hospital can easily retrieve the data or records of their patient without hassle.
-This Wawe has a pleasant user interface and user-friendly functionalities to give the system users a better experience when using the system. This project was developed using the following:
+This Wawe has a pleasant user interface and user-friendly functionalities to give the system users a better experience when using the App. This project was developed using the following:
   - HTML
   - CSS
   - jQuery
@@ -65,5 +65,6 @@ This link[https://github.com/davyleroy/The-Web_App.git]
 
 ### Admin Login Access Information
 Username: admin
+
 Password: 123456789
 
